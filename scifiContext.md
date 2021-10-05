@@ -29,5 +29,6 @@ V	···-	W	·--	X	-··-	Y	-·--	Z	--··
 Then the receiver could choose to decypher or not and understand what the sender have said.
 
 As showed in my exampble codes, the sender asked receiver: Do you love Kirby
+link to the tinkercad: https://www.tinkercad.com/things/l36fORtodnr-cool-gaaris/editel?tenant=circuits
 
 Thanks!
