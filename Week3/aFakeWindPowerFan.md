@@ -28,7 +28,8 @@ Then the Fan would operate again...
 
 ![Sketch](SimpleCircuit.jpg)
 
-##Connection in TinkerCad (because there is no Fan in the TinkerCad, So I just use a motor as presentation)
+## Connection in TinkerCad (because there is no Fan in the TinkerCad, So I just use a motor as presentation)
+
 ![tinkercad](tinkercadConnection.png)
 
 
