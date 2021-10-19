@@ -25,6 +25,15 @@ Then the Fan would operate again...
 
 
 ##Simple circuit sketch
-![Sketch]
 
+![Sketch](SimpleCircuit.jpg)
+
+##Connection in TinkerCad (because there is no Fan in the TinkerCad, So I just use a motor as presentation)
+![tinkercad](tinkercadConnection.png)
+
+
+Although it seems that it is the Fan create power and trigger the LED to high, it just a trick using the phototransistor.
+So I call it a 'FAKE' Fan power installation.
+
+Next I would find a true Fsn motor to finish this mini project.
 
