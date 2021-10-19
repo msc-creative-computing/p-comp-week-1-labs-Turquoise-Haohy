@@ -1,4 +1,4 @@
-#This is a simple Feedback System trying to mimic the principle of the wind power installation.
+# This is a simple Feedback System trying to mimic the principle of the wind power installation.
 
 Three branches would display in parallel and connecting to become a circuit.
 
@@ -9,7 +9,7 @@ branch 2: A LDR that might be affected by the light of the LED.
 branch 3: A resistor and a Fan based on a motor, and this Fan is within the sight of the PIR sensor.
 
 
-##The Process
+## The Process
 
 When the circuit complete, the Fan would swivel, and the PIR sensor would receive the motion of the Fan.
 
@@ -24,7 +24,7 @@ When Fan stop, the PIR sensor would no longer give instruction to the LED, so th
 Then the Fan would operate again...
 
 
-##Simple circuit sketch
+## Simple circuit sketch
 
 ![Sketch](SimpleCircuit.jpg)
 
