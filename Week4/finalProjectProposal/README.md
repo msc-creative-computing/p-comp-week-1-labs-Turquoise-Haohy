@@ -22,9 +22,12 @@ when all the bulbs illuminate, the camera would give a sound of 'shot', then the
 
 ![sketch](installationSketch.png)
 
-## I/O
-### Input                                 output
+The whole journey should be:(I:input;O:output)
+1. People come close to the installation.
+2. By setting the disdance threshold, the *ultrosonic sensor(I)* receive the signal that someone come close, then it send signal to the *servo(O)*.
+3. The servos as well as the *lenses(O)*  would turn direction to the people.
+4. When people touch the contents on the *outrage board(I)*, the *LEDs(O)* would illuminate.
+5. When all the LEDs illuminate, they will be off simultaneously, and a *hidden speaker(O)* will give a sound of 'shot'.
+6. (additional)adding a flash in the final stage. 
 
-touch-MPR121                               LEDs
 
-People come close-ultrosonic         servo-camera module
