@@ -36,5 +36,10 @@ Then the Fan would operate again...
 Although it seems that it is the Fan create power and trigger the LED to high, it just a trick using the phototransistor.
 So I call it a 'FAKE' Fan power installation.
 
-Next I would find a true Fsn motor to finish this mini project.
+Next I would find a true Fan motor to finish this mini project.
+
+# When I realise the PIR is working based on infrared...
+
+Before finding other sensor, I simply use code to mimic a 'FAKE' fan power: 
+[![windPower](https://res.cloudinary.com/marcomontalbano/image/upload/v1638224785/video_to_markdown/images/youtube--HfsZ038IcYg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/HfsZ038IcYg "windPower")
 
