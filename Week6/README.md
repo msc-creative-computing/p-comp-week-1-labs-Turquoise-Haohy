@@ -1,7 +1,7 @@
 # A musical Robot Hand.
 ![hand](hand.jpeg)
 
-## Also a link to the final video: [RobotHand](https://youtube.com/shorts/c369v9hEVwM?feature=share)
+## Also a link to the final video: [RobotHand](https://youtube.com/shorts/Aq_BpzonTDE?feature=share)
 This is my team work outcome with Jasper, Lexin, Xixuan, Jiayu and Haochen.
 
 Follwing the step given[steps](https://photos.google.com/share/AF1QipN9Fpz8oZm9koTvDNeNdtqA_49Q0f5DY6WIU7piGU8nM_7gcSWizUO5vi1XG0sLJQ?key=ZWwxMmVIcFpxX3h1ZGphNWRwSDhWTEJVNHMzZ0d3), we collaborate to prototype, soldering and writing the codes.
