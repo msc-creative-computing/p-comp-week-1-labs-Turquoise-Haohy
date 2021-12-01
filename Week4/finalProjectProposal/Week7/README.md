@@ -7,7 +7,7 @@ because in this stage, I do not want to use its function, so I got these pretty 
 ## 3d printing the modle
 I talk with Matt about my camera simulation, and then I book a 3d printer tutorial with him.
 Before tutorial, I was recommended by Matt to use the tinkercad to finish my model:
-![model](model.jpeg)
+![model](model.png)
 
 Then I get my first 3d printing camera models:
 ![print](print.jpeg)
