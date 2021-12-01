@@ -28,4 +28,5 @@ So I want to use a real 'shot' sound in my project. Then I have no choice but to
 ![sd](sd.jpeg)
 
 Then I am trying to combine them together:
+
 [![adding servo and speaker together](https://res.cloudinary.com/marcomontalbano/image/upload/v1638360579/video_to_markdown/images/youtube--I4v7l-FyDKA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/I4v7l-FyDKA "adding servo and speaker together")
