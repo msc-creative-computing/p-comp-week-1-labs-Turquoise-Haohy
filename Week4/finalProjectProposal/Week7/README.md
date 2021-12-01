@@ -14,7 +14,8 @@ Then I get my first 3d printing camera models:
 
 ![assemble](assemble.jpeg)
 
-after assembly them together, and it is perfectlr fitted, and then I began to test it with codes:
+after assembly them together, and it is perfectlr fitted, and then I began to test it with other modules, the ultosonic distance sensor, and combine all of these
+in codes:
 [Test the servo with codes](https://youtube.com/shorts/uChRyiTW_cw?feature=share)
 
 ## Adding a sound
@@ -24,7 +25,9 @@ In my thoughts,
 so, to make my camera 'alive' I think adjust another layer of sensory is necessary, so I want to add the sound in to my project.
 
 Refer to the limitation of tone(), we can only got the buzzer sound. I want to make my camera more like a 'camera'. 
-So I want to use a real 'shot' sound in my project. Then I have no choice but to add an additional SD module to preserve the sound.
+So I want to use a real 'shot' sound in my project. 
+Then I have no choice but to add an additional SD module to preserve the sound with a new library to read my audio file.
+
 ![sd](sd.jpeg)
 
 Then I am trying to combine them together:
