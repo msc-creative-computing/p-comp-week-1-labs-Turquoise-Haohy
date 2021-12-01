@@ -28,7 +28,6 @@ Neopixel.
 ## sewing the interface
 here comes the step to sew the interface together. I mimic the webpage style and also give it a tricky name: *Facegram*
 
-![int1](int1.jpeg)
 ![int2](int2.jpeg)
 
 Then I use it to connect to my flora as well as the Grumpy Octupus, which works soundly.
